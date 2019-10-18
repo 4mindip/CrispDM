@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отчет о качестве данных (Data quality report) "
+    id="867c6ade-5ab4-412a-aa49-c5137d58bca0"
+    documentation="Список результатов по верификации качества данных. Если встретились ошибки, список должен содержать возможные решения. Решения этих проблем в равной степени зависят от данных и бизнес-целей."/>

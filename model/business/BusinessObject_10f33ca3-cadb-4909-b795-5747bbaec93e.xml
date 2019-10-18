@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отчет о выгрузке данных (Initial data collection report) "
+    id="10f33ca3-cadb-4909-b795-5747bbaec93e"
+    documentation="Список полученных наборов данных вместе с описанием доступа к ним и возможными проблемами при осуществлении этого доступа. Подробное описание всех возникших проблем и способов их решения (для использования этой информации в будущем)."/>

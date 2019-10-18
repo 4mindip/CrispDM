@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Порождение признаков (Derived attributes) "
+    id="d59a5141-41f1-4c96-a7d4-925ab5b26bf5"
+    documentation="Порождение признаков заключается в создании признаков с помощью уже существующего набора одного и более признаков из одной записи. Например, площадь равна длине, умноженной на ширину.&#xD;&#xA;&#xD;&#xA;"/>
