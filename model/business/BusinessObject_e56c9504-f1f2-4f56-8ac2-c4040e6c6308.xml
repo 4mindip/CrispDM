@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Дизайн тестов (Test design) "
+    id="e56c9504-f1f2-4f56-8ac2-c4040e6c6308"
+    documentation="Описать предполагаемый план обучения, тестирования и оценки качества модели. Основная задача - решить, как разделять выборку на обучающую, контрольную и валидационную.&#xD;&#xA;&#xD;&#xA;"/>

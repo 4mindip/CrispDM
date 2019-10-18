@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Оценивание модели (Model assessment) "
+    id="e44a6b01-70c6-4d1f-81ba-0e0911262f1c"
+    documentation="Собираем воедино результат задачи, создаем список качества порожденных моделей (например, с точки зрения точности) и оцениваем их качесто по отношению друг к другу.&#xD;&#xA;&#xD;&#xA;"/>

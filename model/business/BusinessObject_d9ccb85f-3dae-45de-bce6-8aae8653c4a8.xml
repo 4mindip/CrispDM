@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Предположения модели (Modeling assumption) "
+    id="d9ccb85f-3dae-45de-bce6-8aae8653c4a8"
+    documentation="Документ содержащий все специфические предположения о данных, при условии которых работает выбранное средство реализации модели, например: нет пустых значений, все параметры распределены равномерно и другие.&#xD;&#xA;&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Пересмотр значений параметров (Revised parameters settings) "
+    id="bf9b6f61-0667-421b-8f03-72e150e2e5c7"
+    documentation="В соответствии с оценкой модели, пересмотрите параметры и настройте их для следующего запуска задачи &quot;Построение Модели&quot;. Повторяйте построение модели и оценку до тех пор, пока не найдете лучшую модель.&#xD;&#xA;&#xD;&#xA;"/>
