@@ -8,9 +8,9 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="c91115d5-9634-41ff-9e18-52a8a5e49137"
-      name="https://habr.com/en/company/lanit/blog/328858/    http://www.machinelearning.ru/wiki/index.php?title=CRISP-DM/"
+      name="CRISP-DM: проверенная методология для Data Scientist-ов"
       textAlignment="1"
-      documentation="CRISP-DM: проверенная методология для Data Scientist-ов">
+      documentation="&#xD;&#xA;https://habr.com/en/company/lanit/blog/328858/    &#xD;&#xA;http://www.machinelearning.ru/wiki/index.php?title=CRISP-DM/">
     <bounds
         x="-12"
         y="12"
@@ -372,7 +372,7 @@
         id="f7ab9b35-f72f-4e00-af97-ce2212b9ce23"
         targetConnections="2400cc47-2108-48a2-87a1-82b628b313fc">
       <bounds
-          x="312"
+          x="324"
           y="684"
           width="193"
           height="61"/>
@@ -716,8 +716,8 @@
             href="AccessRelationship_2cc09af7-5a55-4835-89b3-47251d921581.xml#2cc09af7-5a55-4835-89b3-47251d921581"/>
       </sourceConnections>
       <bounds
-          x="120"
-          y="372"
+          x="156"
+          y="360"
           width="240"
           height="49"/>
       <archimateElement
@@ -847,7 +847,7 @@
         id="f6e9b3e9-c17c-43de-b205-a2e7ec76abef"
         targetConnections="1d5b55f5-7b1a-46d9-8df6-9ee2ab09b646">
       <bounds
-          x="432"
+          x="456"
           y="360"
           width="120"
           height="73"/>
@@ -946,8 +946,8 @@
           width="193"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_8486c79b-79c2-4bec-9312-fa0d0b258cdd.xml#8486c79b-79c2-4bec-9312-fa0d0b258cdd"/>
+          xsi:type="archimate:DataObject"
+          href="DataObject_ca5edf30-d662-47a5-b704-c0829d2f8297.xml#ca5edf30-d662-47a5-b704-c0829d2f8297"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -959,8 +959,8 @@
           width="193"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_b20bb64d-f544-432d-8489-d9d18baceb7a.xml#b20bb64d-f544-432d-8489-d9d18baceb7a"/>
+          xsi:type="archimate:DataObject"
+          href="DataObject_a6bcb886-c875-4703-8406-b04353fbbb85.xml#a6bcb886-c875-4703-8406-b04353fbbb85"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1213,8 +1213,8 @@
           width="193"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_30974efe-7297-4ecf-9ed8-12b57e20bba2.xml#30974efe-7297-4ecf-9ed8-12b57e20bba2"/>
+          xsi:type="archimate:DataObject"
+          href="DataObject_87a1959a-502a-41d0-9775-96204e1d11b8.xml#87a1959a-502a-41d0-9775-96204e1d11b8"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
